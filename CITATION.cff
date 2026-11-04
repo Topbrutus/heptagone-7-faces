@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Generateur du prisme heptagonal ouvert - 7 cotes, 7 faces laterales"
+message: "Veuillez citer le depot Zenodo lorsqu'il sera publie."
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+    orcid: "https://orcid.org/0009-0009-9297-2336"
+version: "0.1.0"
+date-released: 2026-11-04
+repository-code: https://github.com/Topbrutus/heptagone-7-faces

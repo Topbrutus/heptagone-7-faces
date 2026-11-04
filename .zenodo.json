@@ -1,0 +1,29 @@
+{
+  "title": "Generateur du prisme heptagonal ouvert - 7 cotes, 7 faces laterales (v0.1.0)",
+  "upload_type": "software",
+  "description": "<p>Programme Python de calcul et de visualisation d'un prisme droit heptagonal ouvert : sept faces laterales, quatorze sommets, coordonnees tridimensionnelles et mesures geometriques. Les formules sont des identites classiques de geometrie euclidienne; ce depot ne revendique pas de nouveau theoreme.</p>",
+  "creators": [
+    {
+      "name": "St-Pierre, Gabriel",
+      "orcid": "0009-0009-9297-2336"
+    }
+  ],
+  "version": "0.1.0",
+  "language": "fra",
+  "keywords": [
+    "heptagon",
+    "heptagonal prism",
+    "geometry",
+    "Python",
+    "computational geometry",
+    "Gabriel St-Pierre"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Topbrutus/heptagone-7-faces",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
